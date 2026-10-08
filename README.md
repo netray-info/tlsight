@@ -1,3 +1,5 @@
+> **Archived.** This repository moved into the netray monorepo, [`netray-info/netray`](https://github.com/netray-info/netray/tree/main/crates/tlsight). Development, issues and releases happen there. This repository publishes nothing further to GHCR images; images and versions already published stay available.
+
 <div align="center">
 
 # **tlsight** — TLS, illuminated
